@@ -1,4 +1,19 @@
 Ruby on Rails Rspec 测试
 
-2016.04.01
-by lijian
+
+说明:
+
+操作系统： Mac OS X EI Capitan10.11.4
+Ruby版本：ruby 2.2.3p173
+Rails版本： Rails 4.2.5
+浏览器类型：Firefox
+
+步骤：
+
+1:bundle
+
+
+2:rspec
+
+
+2016.04.01 by lijian
